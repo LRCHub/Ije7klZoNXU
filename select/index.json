@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "最果て",
+  "base_artist": "35.7",
+  "createdAt": "2025-12-14T07:06:26.366129Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "最果て - With ensemble",
+      "artist": "SennaRin",
+      "has_synced": true,
+      "path": "select/01_最果て_-_With_ensemble_SennaRin.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "最果て (Instrumental)",
+      "artist": "SennaRin",
+      "has_synced": true,
+      "path": "select/02_最果て_(Instrumental)_SennaRin.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "最果て",
+      "artist": "SennaRin",
+      "has_synced": true,
+      "path": "select/03_最果て_SennaRin.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "最果て",
+      "artist": "SennaRin",
+      "has_synced": true,
+      "path": "select/04_最果て_SennaRin.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "最果て",
+      "artist": "SennaRin",
+      "has_synced": true,
+      "path": "select/05_最果て_SennaRin.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "最果て",
+      "artist": "paranoid void",
+      "has_synced": true,
+      "path": "select/06_最果て_paranoid_void.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "最果て",
+      "artist": "SennaRin",
+      "has_synced": true,
+      "path": "select/07_最果て_SennaRin.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "最果て - SAIHATE",
+      "artist": "SennaRin",
+      "has_synced": true,
+      "path": "select/08_最果て_-_SAIHATE_SennaRin.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "最果て",
+      "artist": "35.7",
+      "has_synced": false,
+      "path": "select/pl_01_最果て_35.7.txt"
+    }
+  ]
+}
